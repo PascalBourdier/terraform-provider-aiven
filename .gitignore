@@ -39,3 +39,7 @@ plugins/
 _site/
 Gemfile
 Gemfile.lock
+
+# Temp files from build steps
+tmp/
+temp/
